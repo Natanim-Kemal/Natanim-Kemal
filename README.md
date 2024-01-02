@@ -27,7 +27,8 @@
 - Community engagement.
 
 ---
-### 💼 Technologies I am familiar with ...
+
+## 💼 Technologies I am familiar with ...
 
 <table>
   <tr>
