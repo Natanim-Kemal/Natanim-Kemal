@@ -1,7 +1,7 @@
 
 <img src="https://media.licdn.com/dms/image/C4E16AQGvPklfbMk5kw/profile-displaybackgroundimage-shrink_200_800/0/1539202521370?e=2147483647&v=beta&t=b0rfWSmIBfwHKa_c9HpCYOUfhaoFHnP3-WXNreVsPE0" style="border-radius: 10px;" width="800px" height="200px"/>
 
-### Hi there⛄ I am **Natanim Kemal**
+## Hi there⛄ I am **Natanim Kemal**
 
 <p align="left">I'm a Student Software Engineer 💻. I love designing and implementing websites. I also enjoy creating desktop programs and tools that
     perform specific and powerful tasks. I aspire to become a highly skilled and versatile software engineer, continually honing my expertise in cutting-edge technologies, collaborating on innovative projects, and making a positive impact on the field through my problem-solving abilities and commitment to lifelong learning..</p>
