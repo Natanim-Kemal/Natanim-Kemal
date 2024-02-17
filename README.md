@@ -5,8 +5,7 @@
 
 <p align="left">I'm a Student Software Engineer 💻. I love designing and implementing websites. I also enjoy creating desktop programs and tools that
     perform specific and powerful tasks. I aspire to become a highly skilled and versatile software engineer, continually honing my expertise in cutting-edge technologies, collaborating on innovative projects, and making a positive impact on the field through my problem-solving abilities and commitment to lifelong learning.</p>
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=ffekirnew" alt="ffekirnew" /></a> </p>  -->
+
 
 ---
 <h3 align="left">🔭 I’m currently learning and working on:</h3>
@@ -18,7 +17,7 @@
 
 ---
 
-## 💼 Technologies I am familiar with ...
+# 💼 Technologies I am familiar with ...
 
 <table>
   <tr>
