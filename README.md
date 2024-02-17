@@ -9,16 +9,6 @@
             src="https://github-profile-trophy.vercel.app/?username=ffekirnew" alt="ffekirnew" /></a> </p>  -->
 
 ---
-
-<h3 align="left">📬 Connect with me:</h3>
-<p>
-<a href="https://twitter.com/natty573508413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ffekirnew" height="30" width="70" /></a> 
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fkrnew.brhanu" height="30" width="70" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ffekirnew0808" height="30" width="70" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ffekirnew" height="30" width="120" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ffekirnew" height="30" width="70" /></a>
-</p>
-
 <h3 align="left">🔭 I’m currently learning and working on:</h3>
 
 - Collaborating with colleagues here.
