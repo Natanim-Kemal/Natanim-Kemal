@@ -8,9 +8,9 @@ perform specific and powerful tasks. I aspire to become a highly skilled and ver
 ---
 <h3 align="left">🔭 I’m currently learning and working on:</h3>
 
-- Collaborating with colleagues here.
-- MERN stack Projects.
-- Small backend projects.
+- Collaborating with colleagues.
+- Mobile apps.
+- Flutter projects.
 - Community engagement.
 
 ---
