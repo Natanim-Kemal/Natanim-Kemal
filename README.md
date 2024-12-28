@@ -1,8 +1,8 @@
 
-# Hi there⛄, <br> I am **Natanim Kemal**
+# Hi there⛄, I am **Natanim Kemal**
 
-<p align="left">I'm a Student Software Engineer 💻. I love designing and implementing websites. I also enjoy creating desktop programs and tools that
-perform specific and powerful tasks. I aspire to become a highly skilled and versatile software engineer, continually honing my expertise in cutting-edge technologies, collaborating on innovative projects, and making a positive impact on the field through my problem-solving abilities and commitment to lifelong learning.</p>
+<p align="left">I'm a Student Software Engineer 💻. I love designing and implementing websites. I also enjoy creating desktop programs or tools that
+perform specific powerful tasks to continually hone my expertise in cutting-edge technologies, collaborating on innovative projects, and making a positive impact on the field through my problem-solving abilities and commitment.</p>
 
 
 ---
