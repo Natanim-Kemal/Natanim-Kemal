@@ -1,7 +1,7 @@
 
 # Hi there, I am **Natanim Kemal**
 
-<p align="left">I'm a Student Software Engineer. I love designing and implementing websites. I also enjoy creating desktop programs or tools that
+<p align="left">I'm  a software Engineering student who loves designing and implementing websites. I also enjoy creating desktop programs or tools that
 perform specific powerful tasks to continually hone my expertise in cutting-edge technologies, collaborating on innovative projects, and making a positive impact on the field through my problem-solving abilities and commitment.</p>
 
 
