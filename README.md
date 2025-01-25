@@ -31,7 +31,6 @@ perform specific powerful tasks to continually hone my expertise in cutting-edge
 <!--Nest.js--> <a href="https://nestjs.com"> <img  src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"></a>
 <!--Bootstrap--> <a href="https://getbootstrap.com"> <img  src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap-5" width="40" height="40"/> </a>
 <!--MySQL--> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<!--Tailwind--> <a href="https://tailwindcss.org"> <img  src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwindcss" width="40" height="40"/> </a>
 <!--TypeScript--> <a href="https://typescriptlang.org"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescripts" width="40" height="40"/> </a> 
 <!--Flutter--> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
