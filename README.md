@@ -1,6 +1,8 @@
 
 <p align="left">👋 Hey, I'm Natanim, a software engineering student who loves designing and implementing websites and mobile apps. I also enjoy creating desktop programs, building blockchain technologies, collaborating on innovative projects, and making a positive impact on the field through my problem-solving abilities.</p>
 
+**********
+
 <h3 align="left">✨Currently, learning and working on:</h3>
 
 - Mobile apps.
@@ -9,9 +11,12 @@
 - Community engagement.
 - AI enhanced systems.
 
-<h3 align="left">👨‍💻Usually work with:</h3>
+***********
+
+<h3 align="left">👨‍💻I usually work with:</h3>
 
 <!--Python--> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<!--Svelte--> <a href="https://www.svelte.dev" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> </a>
 <!--Java--> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <!--Mongo--> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <!--Express--> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -22,3 +27,4 @@
 <!--Css--> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <!--JS--> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <!--Flutter--> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<!--Tailwindcss--> <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a> </p>
