@@ -1,19 +1,18 @@
 
-# Hi, I'm Natanim**
+<p align="left">👋 Hey, I'm Natanim, a software engineering student who loves designing and implementing websites and mobile apps. I also enjoy creating desktop programs, building blockchain technologies, collaborating on innovative projects, and making a positive impact on the field through my problem-solving abilities.</p>
 
-<p align="left">I'm  a software engineering student who loves designing and implementing websites. I also enjoy creating desktop programs, collaborating on innovative projects, and making a positive impact on the field through my problem-solving abilities.</p>
+<h3 align="left">✨Currently, learning and working on:</h3>
 
-<h3 align="left">🔭 I’m currently learning and working on:</h3>
-
-- Collaborating with colleagues.
 - Mobile apps.
-- Flutter projects.
+- Blockchain.
+- Security focused projects.
 - Community engagement.
+- AI enhanced systems.
 
-<h3 align="left">💼 Technologies I am familiar with:</h3>
+<h3 align="left">👨‍💻Usually work with:</h3>
 
-<!--Java--> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <!--Python--> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<!--Java--> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <!--Mongo--> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <!--Express--> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <!--Nest.js--> <a href="https://nestjs.com"> <img  src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"></a>
