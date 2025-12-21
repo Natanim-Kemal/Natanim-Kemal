@@ -1,5 +1,5 @@
 
-<p align="left">Aoftware engineer who loves designing and implementing websites and mobile apps. I also enjoy creating desktop programs, building blockchain technologies, collaborating on innovative projects, and making a positive impact on the field through my problem-solving abilities.</p>
+<p align="left">A software engineer who loves designing and implementing websites and mobile apps. I also enjoy creating desktop programs, building blockchain technologies, collaborating on innovative projects, and making a positive impact on the field through my problem-solving abilities.</p>
 
 <div align="left">
   
